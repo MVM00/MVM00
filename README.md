@@ -1,4 +1,4 @@
-### Hi there 👋 I am Mumtaz
+### Hi there 👋, I am Mumtaz Mukherjee
 
 <!--
 **MVM00/MVM00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
